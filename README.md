@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Leonardo Abreu
 
-Atuo como **Analista de BI** na Moldemaq Máquinas e Equipamentos, onde desenvolvo soluções que transformam dados e tecnologia em resultados reais.
+Atuo como **desenvolvedor interno full-cycle** na Moldemaq Máquinas e Equipamentos, onde desenvolvo soluções que transformam dados e tecnologia em resultados reais.
 
 Sou movido por desafios e tenho paixão por resolver problemas com soluções práticas — seja otimizando processos com automações, substituindo planilhas por dashboards visuais ou desenvolvendo ferramentas internas para diferentes áreas da empresa.
 
